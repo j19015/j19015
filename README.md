@@ -25,10 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/j19015/repo1">
+  <a href="https://github.com/j19015/job">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=j19015&repo=repo1&theme=onedark" />
-  </a>
-  <a href="https://github.com/j19015/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j19015&repo=repo2&theme=onedark" />
   </a>
 </p>
