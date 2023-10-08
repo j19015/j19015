@@ -1,5 +1,16 @@
 # Tech Stack 🚀
 
+## With Professional Experience
+### Languages
+- TypeScript
+- JavaScript
+
+### Other Technologies
+- CDK
+- Lambda
+- API Gateway
+
+
 ## No Professional Experience
 ### Languages
 - Ruby
@@ -22,16 +33,6 @@
 - ECS
 - FarGate
 - EC2
-
-## With Professional Experience
-### Languages
-- TypeScript
-- JavaScript
-
-### Other Technologies
-- CDK
-- Lambda
-- API Gateway
 
 <div align="center">
 
