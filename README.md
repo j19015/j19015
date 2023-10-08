@@ -1,14 +1,40 @@
-# こんにちは👋
-Web Enginnerをしております。
-
-# 経歴
-
-
 # 技術スタック
 
-## 実務経験あり
 
-## Exprience
+## 実務経験なし
+### 言語
+- Ruby
+- C
+- C++
+- Go
+
+### FW
+- Rails
+- Next.js
+- Gin
+
+### Library
+- React
+- TailwindCSS
+- BootStrap
+- MUI
+
+### その他技術
+- ECS
+- FarGate
+- EC2
+
+
+## 実務経験あり
+### 言語
+- TypeScript
+- JavaScript
+
+### その他技術
+- CDK
+- Lamda
+- APIGateway
+
 
 
 <p align="center">
