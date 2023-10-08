@@ -10,6 +10,10 @@
 - Lambda
 - API Gateway
 
+### Tool
+- Jira
+- bitBacket
+- confluence
 
 ## No Professional Experience
 ### Languages
