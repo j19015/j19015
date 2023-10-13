@@ -6,9 +6,7 @@
 - JavaScript
 
 ### Other Technologies
-- CDK
-- Lambda
-- API Gateway
+- AWS(Lamda、APIGateway、CDK、CloudWatch、EC2、S3、Secrets Manager、MediaLive、Route53)
 
 ### Tool
 - Jira
@@ -34,9 +32,14 @@
 - MUI
 
 ### Other Technologies
-- ECS
-- FarGate
-- EC2
+- AWS(ECS,FarGate)
+- Google App Script
+- Github Actions
+
+### Tool
+- Miro
+- Figma
+- Notion
 
 
 ## Github History
