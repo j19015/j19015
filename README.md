@@ -12,6 +12,7 @@
 - Jira
 - bitBacket
 - confluence
+- OpenAPI
 
 ## No Professional Experience
 ### Languages
@@ -19,6 +20,7 @@
 - C
 - C++
 - Go
+- PHP
 
 ### Frameworks
 - Rails
