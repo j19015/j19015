@@ -43,6 +43,7 @@
 - Miro
 - Figma
 - Notion
+- Trello
 
 
 ## Github History
