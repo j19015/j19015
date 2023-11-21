@@ -38,6 +38,7 @@
 - AWS(ECS,FarGate)
 - Google App Script
 - Github Actions
+- microCMS
 
 ### Tool
 - Miro
