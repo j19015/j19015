@@ -22,6 +22,8 @@
 - Go
 - PHP
 - Java
+- HTML
+- CSS
 
 ### Frameworks
 - Rails
