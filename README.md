@@ -29,6 +29,7 @@
 - Rails
 - Next.js
 - Gin
+- Express
 
 ### Libraries
 - React
