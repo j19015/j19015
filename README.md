@@ -40,6 +40,7 @@
 
 ### Other Technologies
 - AWS(ECS,FarGate)
+- Docker
 - Google App Script
 - Github Actions
 - microCMS
