@@ -1,6 +1,6 @@
 # Tech Stack 💻
 
-## With Professional Experience
+## With Professional Experience 👨‍💻
 
 ### Languages
 - TypeScript
