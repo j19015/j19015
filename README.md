@@ -15,7 +15,7 @@
 - confluence
 - OpenAPI
 
-## No Professional Experience
+## No Professional Experience ☃️
 ### Languages
 - Ruby
 - C
