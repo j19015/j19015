@@ -2,7 +2,7 @@
 
 ## With Professional Experience 👨‍💻
 
-### Languages
+### Languages 🗾
 - TypeScript
 - JavaScript
 
