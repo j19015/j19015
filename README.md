@@ -55,11 +55,6 @@
 ## Github History
 
 <div align="center">
-  ![GitHub persona](https://read-413014.an.r.appspot.com/create?username=j19015)
-</div>
-
-
-<div align="center">
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j19015&layout=compact&show_icons=true&theme=onedark)
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j19015&theme=onedark&show_icons=true)
