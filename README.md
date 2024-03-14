@@ -6,6 +6,10 @@
 - TypeScript
 - JavaScript
 
+### Libraries
+- React
+- MUI
+
 ### Other Technologies
 - AWS(Lamda、APIGateway、CDK、CloudWatch、EC2、S3、Secrets Manager、MediaLive、Route53、RDS)
 
@@ -33,10 +37,8 @@
 - Express
 
 ### Libraries
-- React
 - TailwindCSS
 - BootStrap
-- MUI
 
 ### Other Technologies
 - AWS(ECS,FarGate)
