@@ -29,7 +29,7 @@
 ### Frameworks
 - Rails
 - Next.js
-- Gin
+- ORM( Gin, Prisma,TypeORM )
 - Express
 
 ### Libraries
