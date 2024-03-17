@@ -11,7 +11,7 @@
 - MUI
 
 ### Other Technologies
-- AWS(Lamda、APIGateway、CDK、CloudWatch、EC2、S3、Secrets Manager、MediaLive、Route53、RDS)
+- AWS(Lambda、APIGateway、CDK、CloudWatch、EC2、S3、Secrets Manager、MediaLive、Route53、RDS)
 
 ### Tool
 - Jira
