@@ -39,6 +39,7 @@
 ### Libraries
 - TailwindCSS
 - BootStrap
+- Ant Design
 
 ### Other Technologies
 - AWS(ECS,FarGate)
