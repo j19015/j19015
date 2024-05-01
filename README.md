@@ -10,6 +10,10 @@
 - React
 - MUI
 
+### Frameworks
+- Next.js
+- ORM( Prisma )
+
 ### Other Technologies
 - AWS(Lambda、APIGateway、CDK、CloudWatch、EC2、S3、Secrets Manager、MediaLive、Route53、RDS)
 
