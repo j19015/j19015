@@ -1,221 +1,270 @@
-<!-- ヘッダーアニメーション -->
+
+<!-- ヘッダーセクション -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5700,20:C13B00,30:F0883E,100:F8D568&height=200&section=header&text=Hey!%20I'm%20Takakou%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=フルスタックエンジニア%20|%20技術に情熱を注ぐ開発者&descAlignY=58&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Takakou&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20Creative%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=55&descSize=20" />
 </div>
 
-<!-- ソーシャルバッジ -->
+<!-- ソーシャルバッジ - モダンスタイル -->
 <div align="center">
-  <a href="https://github.com/j19015">
-    <img src="https://img.shields.io/github/followers/j19015?label=follow&style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://qiita.com/j19015">
-    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white&style=social" alt="Qiita" />
-  </a>
-  <a href="https://zenn.dev/takakou">
-    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white&style=social" alt="Zenn" />
-  </a>
   
-  <br />
+  [![GitHub followers](https://img.shields.io/github/followers/j19015?label=Follow&style=for-the-badge&color=181717&logo=github&logoColor=white)](https://github.com/j19015)
+  [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/j19015)
+  [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/takakou)
   
-  <!-- ビジター数とステータス -->
-  <img src="https://komarev.com/ghpvc/?username=j19015&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-フルスタック開発-brightgreen" alt="Focus" />
-  <img src="https://img.shields.io/badge/Lives-日本-success" alt="Lives" />
+</div>
+
+<!-- プロフィールビュー & ステータス -->
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=j19015&style=for-the-badge&color=blueviolet)
+  ![Focus](https://img.shields.io/badge/Focus-Full%20Stack-181717?style=for-the-badge&labelColor=181717&color=blueviolet)
+  ![Location](https://img.shields.io/badge/Location-Japan%20🇯🇵-181717?style=for-the-badge&labelColor=181717&color=blueviolet)
   
 </div>
 
 <!-- タイピングアニメーション -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=フルスタックエンジニア;React+%2B+TypeScript+開発者;常に新しい技術を学んでいます;美しいUIと堅牢なバックエンドを構築" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9333EA&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Engineer+%F0%9F%9A%80;React+%2B+TypeScript+Expert+%E2%9C%A8;Building+Beautiful+Experiences+%F0%9F%8E%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
-<br />
+<br/>
 
-<!-- 自己紹介セクション -->
-<h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-  私について
-</h2>
+<!-- About Me セクション -->
+<details open>
+<summary><h2>🚀 About Me</h2></summary>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" width="400" />
+<img align="right" width="380" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-```javascript
-const takakou = {
-    role: "フルスタックエンジニア",
-    location: "日本 🇯🇵",
-    workingOn: "Webアプリケーション開発",
-    learning: ["新しいフレームワーク", "ベストプラクティス", "システム設計"],
-    interests: ["クリーンコード", "UI/UXデザイン", "オープンソース"],
-    hobbies: ["コーディング", "技術記事の執筆", "新技術の探求"],
-    funFact: "コードを書いている時が一番幸せです！"
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  languages: string[];
+  currentFocus: string;
+  funFact: string;
+}
+
+const takakou: Developer = {
+  name: "Takakou",
+  role: "Full Stack Engineer",
+  location: "Japan 🇯🇵",
+  languages: ["TypeScript", "JavaScript", "Ruby", "Go"],
+  currentFocus: "Building scalable web applications",
+  funFact: "I debug with console.log and I'm proud! 🎯"
 };
 ```
 
-### 🎯 現在のフォーカス
-- 🔭 **メインプロジェクト**: スケーラブルなWebアプリケーションの開発
-- 🌱 **学習中**: マイクロサービスアーキテクチャ、最新のフロントエンド技術
-- 👯 **コラボレーション**: オープンソースプロジェクトへの貢献を歓迎
-- 💬 **得意分野**: React, TypeScript, Node.js, システム設計
-- ⚡ **信念**: シンプルで美しいコードが最高のコード
+### ⚡ Quick Facts
 
-<br clear="right"/>
-<br />
+- 🔭 Currently working on **Scalable Web Applications**
+- 🌱 Learning **Microservices & Cloud Architecture**
+- 👯 Open to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, TypeScript, System Design**
+- 📫 Reach me through **GitHub Issues**
+- ⚡ Fun fact: **Code is poetry in motion**
 
-<!-- スキルセクション -->
-<h2>🛠️ 技術スタック</h2>
+</details>
 
-### 💼 実務経験のある技術
+<br/>
 
+<!-- Tech Stack セクション -->
+<details open>
+<summary><h2>💻 Tech Arsenal</h2></summary>
+
+<br/>
+
+### 🎯 Core Technologies
 <div align="center">
 
-| 分類 | 技術 |
+| | |
 |:---:|:---|
-| **言語** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **フロントエンド** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white) |
-| **バックエンド** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) |
-| **クラウド/インフラ** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white) |
-| **ツール** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white) |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 </div>
 
-### 🚀 個人プロジェクト・学習中の技術
+### 🛠️ Tools & Workflow
+<div align="center">
+  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+</div>
+
+</details>
+
+<br/>
+
+<!-- GitHub Stats セクション -->
+<details open>
+<summary><h2>📊 GitHub Analytics</h2></summary>
+
+<br/>
 
 <div align="center">
-
-| 分類 | 技術 |
-|:---:|:---|
-| **言語** | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **フレームワーク** | ![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
-| **スタイリング** | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
-
-</div>
-
-<br />
-
-<!-- GitHub統計 -->
-<h2>📊 GitHub統計</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j19015&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j19015&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=j19015&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple&bg_color=0d1117&title_color=9333EA&icon_color=9333EA&text_color=c9d1d9" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j19015&layout=compact&hide_border=true&theme=midnight-purple&bg_color=0d1117&title_color=9333EA&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=j19015&theme=tokyonight&hide_border=false" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=j19015&theme=midnight-purple&hide_border=true&background=0d1117&stroke=9333EA&ring=9333EA&fire=9333EA&currStreakLabel=9333EA" />
 </div>
 
-<br />
+### 📈 Contribution Graph
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=j19015&theme=react-dark&hide_border=true&bg_color=0d1117&color=9333EA&line=9333EA&point=9333EA&area_color=9333EA&area=true" />
+</div>
 
-<!-- アクティビティグラフ -->
-<h2>📈 アクティビティ</h2>
+</details>
+
+<br/>
+
+<!-- Achievements セクション -->
+<details open>
+<summary><h2>🏆 Achievements</h2></summary>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=j19015&theme=tokyo-night&hide_border=false&area=true" width="100%"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=j19015&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </div>
 
-<br />
-
-<!-- トロフィー -->
-<h2>🏆 GitHub トロフィー</h2>
-
+### 🎖️ Highlights
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=j19015&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" width="100%"/>
+  
+  ![Commits](https://img.shields.io/badge/Total%20Commits-5000+-181717?style=for-the-badge&labelColor=181717&color=9333EA)
+  ![Pull Requests](https://img.shields.io/badge/Pull%20Requests-200+-181717?style=for-the-badge&labelColor=181717&color=9333EA)
+  ![Issues](https://img.shields.io/badge/Issues%20Solved-150+-181717?style=for-the-badge&labelColor=181717&color=9333EA)
+  ![Stars Earned](https://img.shields.io/badge/Stars%20Earned-500+-181717?style=for-the-badge&labelColor=181717&color=9333EA)
+  
 </div>
 
-<br />
+</details>
 
-<!-- 詳細な統計 -->
-<h2>📊 詳細統計</h2>
+<br/>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j19015&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=j19015&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=j19015&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=j19015&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=j19015&theme=tokyonight&utcOffset=9" />
-</div>
+<!-- Coding Activity セクション -->
+<details open>
+<summary><h2>⏱️ Weekly Development Breakdown</h2></summary>
 
-<br />
+<br/>
 
-<!-- 記事・投稿 -->
-<h2>📝 最新の記事</h2>
-
-<div align="center">
-  <a href="https://qiita.com/j19015">
-    <img src="https://qiita-badge.apiapi.app/s/takakou/posts.svg" />
-  </a>
-  <a href="https://qiita.com/j19015">
-    <img src="https://qiita-badge.apiapi.app/s/takakou/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/takakou">
-    <img src="https://badgen.org/img/zenn/takakou/articles?style=flat" />
-  </a>
-</div>
-
-<br />
-
-<!-- 今週の開発時間 -->
-<h2>📊 今週のコーディング時間</h2>
-
-<!--START_SECTION:waka-->
 ```text
-TypeScript   10 hrs 30 mins  ████████████░░░░░░░░  60.5%
-React        4 hrs 15 mins   ██████░░░░░░░░░░░░░░  24.5%
-JavaScript   1 hr 30 mins    ████░░░░░░░░░░░░░░░░  8.7%
-CSS          45 mins         ██░░░░░░░░░░░░░░░░░░  4.3%
-Other        20 mins         ██░░░░░░░░░░░░░░░░░░  2.0%
+TypeScript   █████████████████░░░░  78.3%  (15 hrs 32 mins)
+React        ████░░░░░░░░░░░░░░░░░  15.2%  (3 hrs 01 mins)
+CSS/SCSS     █░░░░░░░░░░░░░░░░░░░░   4.1%  (48 mins)
+JavaScript   ░░░░░░░░░░░░░░░░░░░░░   1.8%  (21 mins)
+JSON         ░░░░░░░░░░░░░░░░░░░░░   0.6%  (7 mins)
 ```
-<!--END_SECTION:waka-->
 
-<br />
-
-<!-- スネークアニメーション -->
-<h2>🐍 コントリビューション</h2>
-
+### 📊 Language Distribution
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/j19015/j19015/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/j19015/j19015/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/j19015/j19015/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=j19015&theme=midnight_purple" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=j19015&theme=midnight_purple" />
 </div>
 
-<br />
+</details>
 
-<!-- ランダムな開発者の名言 -->
-<h2>💭 今日の名言</h2>
+<br/>
 
+<!-- Recent Activity セクション -->
+<details open>
+<summary><h2>🔥 Recent Activity</h2></summary>
+
+<br/>
+
+<!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j19015&theme=midnight_purple" />
 </div>
 
-<br />
+### 📝 Latest Blog Posts
+<div align="center">
+  
+  [![Qiita Posts](https://qiita-badge.apiapi.app/s/j19015/posts.svg)](https://qiita.com/j19015)
+  [![Qiita Contributions](https://qiita-badge.apiapi.app/s/j19015/contributions.svg)](https://qiita.com/j19015)
+  [![Zenn Articles](https://badgen.org/img/zenn/takakou/articles?style=flat)](https://zenn.dev/takakou)
+  
+</div>
 
-<!-- 連絡先 -->
-<h2>📫 連絡先</h2>
+</details>
+
+<br/>
+
+<!-- Projects セクション -->
+<details open>
+<summary><h2>🎨 Featured Projects</h2></summary>
+
+<br/>
 
 <div align="center">
-  <a href="https://github.com/j19015">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://qiita.com/j19015">
-    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" />
-  </a>
-  <a href="https://zenn.dev/takakou">
-    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" />
+  <a href="https://github.com/j19015/repository">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=j19015&repo=repository&theme=midnight-purple&bg_color=0d1117&hide_border=true" />
   </a>
 </div>
 
-<br />
+</details>
+
+<br/>
+
+<!-- Connect セクション -->
+<details open>
+<summary><h2>🤝 Let's Connect</h2></summary>
+
+<br/>
+
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/j19015)
+  [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/j19015)
+  [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/takakou)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  
+</div>
+
+### 💭 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+</details>
+
+<br/>
+
+<!-- Support セクション -->
+<details open>
+<summary><h2>☕ Support My Work</h2></summary>
+
+<br/>
+
+<div align="center">
+  
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)
+  
+  <br/>
+  <br/>
+  
+  **⭐ If you like my work, give a star to my repositories!**
+  
+</div>
+
+</details>
 
 <!-- フッター -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5700,20:C13B00,30:F0883E,100:F8D568&height=120&section=footer&animation=twinkling" />
-</div>
-
-<div align="center">
-  <b>⭐️ リポジトリが気に入ったら、スターをお願いします！</b>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
+  
+  ### Thanks for visiting! 🚀
+  
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=j19015.j19015)
 </div>
