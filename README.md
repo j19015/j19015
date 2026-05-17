@@ -1,6 +1,6 @@
 <!-- ヘッダー -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Koki%20%2F%20%E9%AB%98%E6%A9%8B%E5%B9%B8%E5%B8%8C&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Web%20Engineer%20based%20in%20Tokai%2C%20Japan&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Koki%20%2F%20%E9%AB%98%E6%A9%8B%E5%B9%B8%E5%B8%8C&fontSize=68&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Web%20Engineer%20%C3%97%20AI%2FLLM%20%7C%20Hamamatsu%2C%20Japan&descAlignY=60&descSize=18" />
 </div>
 
 <!-- ステータスバッジ -->
@@ -14,14 +14,15 @@
 [![LAPRAS](https://img.shields.io/badge/LAPRAS-Public-FF6B35?style=for-the-badge&logoColor=white)](https://lapras.com/public/BWHAEVH)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=j19015&style=for-the-badge&color=9333EA)
-![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%2F%20Next.js-181717?style=for-the-badge&color=9333EA)
-![Location](https://img.shields.io/badge/Tokai%2C%20Japan%20%F0%9F%87%AF%F0%9F%87%B5-Remote-181717?style=for-the-badge&color=9333EA)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%C3%97%20AI%2FLLM-181717?style=for-the-badge&color=9333EA)
+![Experience](https://img.shields.io/badge/Experience-3+%20Years-181717?style=for-the-badge&color=9333EA)
+![Location](https://img.shields.io/badge/Hamamatsu%2C%20Shizuoka%20%F0%9F%87%AF%F0%9F%87%B5-Fully%20Remote-181717?style=for-the-badge&color=9333EA)
 
 </div>
 
 <!-- タイピングアニメーション -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=720&lines=Full+Stack+Web+Engineer+%F0%9F%9A%80;TypeScript+%2F+Next.js+%2F+React+%E2%9C%A8;AWS+CDK+%2B+Serverless+%E2%9A%A1;Writing+at+kt-tech.blog+%F0%9F%93%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%C3%97+AI%2FLLM+%F0%9F%9A%80;Next.js+%2F+React+%2F+TypeScript+%E2%9C%A8;AWS+CDK+%2B+Azure+OpenAI+%E2%9A%A1;Writing+at+kt-tech.blog+%F0%9F%93%9D" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -32,32 +33,127 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-東海地方からフルリモートで働くWebエンジニアです。本業では自社開発企業でフロント・バックエンド・QA を横断、副業では Next.js 中心のフロントエンド開発をしています。技術を触って学んだことは [kt-tech.blog](https://kt-tech.blog) や [Qiita](https://qiita.com/takakou) にまとめています。
+静岡県浜松市からフルリモートで働く Web エンジニアです。バックエンドからキャリアをスタートし、現在は **React / Next.js / TypeScript を中心にしたフロントエンド開発** に加えて、**Node.js / Python(FastAPI) によるバックエンド API**、**AWS / Azure を活用したクラウド構築** まで担当するフルスタックエンジニアとして開発しています。
+
+正社員と業務委託を並行し、**週100時間近く技術に向き合っている** のが日常です。学んだことや詰まったところは [kt-tech.blog](https://kt-tech.blog) や [Qiita](https://qiita.com/takakou) にアウトプットしています。
 
 ```typescript
 const koki = {
-  name: "高橋幸希 (Koki)",
+  name: "高橋幸希 (Takahashi Koki)",
   role: "Full Stack Web Engineer",
-  location: "Tokai, Japan 🇯🇵 (Fully Remote)",
+  location: "Hamamatsu, Shizuoka 🇯🇵 (Fully Remote)",
+  experience: "3+ years (since Apr 2023)",
   currentlyWorkingOn: [
-    "サーバレス構成 (AWS CDK / Lambda / S3 / Route53) のAPI設計",
-    "Next.js / React によるフロントエンド開発 (副業)",
+    "動画配信プラットフォーム VCP (株式会社ブイキューブ)",
+    "製造業向け LLM/RAG 検索ツール (株式会社エムニ)",
+    "Azure OpenAI を使ったドキュメントレビュー基盤 (株式会社Hakky)",
   ],
   recentlyExploring: [
     "ローカル LLM (Gemma / Llama / Qwen)",
-    "Cloudflare Workers / Pages",
+    "Cloudflare Workers / Pages (Edge runtime)",
     "Next.js のメジャーアップグレード対応",
   ],
   hobbies: ["🐈 ネコ", "🚗 ドライブ", "📺 YouTube / Netflix", "✍️ アウトプット"],
 } as const;
 ```
 
-### ⚡ Quick Facts
+</details>
 
-- 🔭 本業ではフロント・バックエンド・QA を横断、副業では Next.js でフロント開発
-- 🌱 最近の興味: **ローカル LLM / Cloudflare / Edge 環境のフロント配信**
-- 💬 話せる話題: **Next.js, React, TypeScript, AWS CDK, Rails**
-- 🐈 猫とドライブが好きです
+<br/>
+
+<!-- 職務経歴 -->
+<details open>
+<summary><h2>💼 Experience</h2></summary>
+
+<br/>
+
+### 🏢 株式会社ブイキューブ (正社員)
+**2023.04 〜 現在** ｜ Full Stack Engineer
+動画配信プラットフォーム **VCP** およびオンラインセミナーツール **「Vキューブセミナー」** の開発に従事。
+- 1イベント最大 **26,000人規模 / 累計 400,000人対応** を見据えたライブ配信基盤の開発・運用
+- React + Agora SDK による視聴画面の映像音声配信機能の実装
+- AWS CDK で IaC、Lambda / MediaLive / CloudWatch を使ったサーバーレス基盤の設計・実装
+- Firebase (Firestore / Cloud Functions / Pub/Sub) を用いたリアルタイム連携・イベント駆動アーキテクチャ
+- CircleCI による CI/CD パイプラインの構築・運用
+> `React` `Vite` `TypeScript` `Node.js` `AWS CDK / Lambda / MediaLive` `Firebase` `Agora.io` `CircleCI`
+
+### 🤖 株式会社エムニ (業務委託)
+**2025.12 〜 現在** ｜ Full Stack Engineer
+大手製造業向け社内 **LLM / RAG 検索ツール** と、**株主総会回答システム** の開発。
+- アクティブユーザー約 **300名** へ導入・運用
+- フロントからバック、アーキテクチャ設計まで一貫して担当
+> `Next.js` `React` `TypeScript` `FastAPI` `Python` `GPT-5` `Bedrock Knowledge Base` `AWS`
+
+### 📝 株式会社Hakky (業務委託)
+**2025.01 〜 現在**  ｜ Full Stack Engineer
+**AI 記事投稿サイト** と、生成 AI を活用した **ドキュメントレビューシステム** の開発。
+- Azure OpenAI (GPT-4o mini 等) を活用した AI 機能の設計・実装
+- Azure Document Intelligence を用いた Word / PDF の前処理 → Markdown 変換パイプライン
+- AI モデル選定によるコスト最適化
+> `Next.js` `React` `TypeScript` `Node.js` `Azure OpenAI` `Azure Document Intelligence` `Azure AI Search` `Azure Functions`
+
+### 🍰 株式会社Diafa (業務委託)
+**2024.04 〜 2025.11**  ｜ Full Stack Engineer
+全国コンセプトカフェ情報サービス **[con-cafe.jp](https://con-cafe.jp)** の開発。
+- 技術選定・アーキテクチャ設計からインフラ構築まで一貫して担当
+- App Runner / Amplify の比較検討を含む AWS 設計
+> `Next.js` `React` `TypeScript` `CSS Modules` `Node.js` `Prisma` `PostgreSQL` `AWS (App Runner / Amplify / Lambda)`
+
+### 🛒 株式会社toraco (業務委託)
+**2025.01 〜 2025.03**  ｜ Full Stack Engineer
+EC カート事業のシステム開発。カート / 決済フローの実装と既存システムの保守。
+> `Next.js` `React` `TypeScript` `Node.js`
+
+### 🎓 DMM WEBCAMP (業務委託・テックメンター)
+**2021.11 〜 2025.07 (3年8ヶ月)**
+プログラミングスクールのテックメンターとして、Rails / AWS (EC2, RDS) 環境構築のサポート、コードレビュー、学習進捗の伴走を担当。技術説明力・コミュニケーション力を磨いた期間。
+
+</details>
+
+<br/>
+
+<!-- 強み -->
+<details open>
+<summary><h2>💪 Strengths</h2></summary>
+
+<br/>
+
+### 1️⃣ BE / FE を横断するフルスタック開発力
+バックエンド出身でフロントへ。**API 設計を意識した実装** やパフォーマンス最適化、サーバレスアーキテクチャ設計まで一貫して担当できます。
+
+### 2️⃣ 圧倒的な稼働量と吸収力
+本業 + 業務委託2〜3社を並行しつつ、ブログ運営・記事執筆・メンター活動も継続。**週100時間近く技術に向き合い、短期間で複数の技術スタックを習得** してきました。
+
+### 3️⃣ 0→1 のプロダクト開発経験
+個人事業主としてヒアリング・要件定義・技術選定・実装・運用まで単独完遂した経験。業務委託でも立ち上げフェーズから参画し、技術選定から運用まで伴走しています。
+
+</details>
+
+<br/>
+
+<!-- Tech Stack -->
+<details open>
+<summary><h2>💻 Tech Stack</h2></summary>
+
+<br/>
+
+<div align="center">
+
+| | |
+|:---:|:---|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js%20(App%20Router)-000000?style=flat-square&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![TanStack](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logoColor=white) ![Jotai](https://img.shields.io/badge/Jotai-000000?style=flat-square&logoColor=white) ![RHF](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) |
+| **Styling** | ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![CSS%20Modules](https://img.shields.io/badge/CSS%20Modules-000000?style=flat-square&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **AWS** | ![CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![MediaLive](https://img.shields.io/badge/MediaLive-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![App%20Runner](https://img.shields.io/badge/App%20Runner-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=flat-square&logo=awsamplify&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white) |
+| **Azure / GCP** | ![Azure%20Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white) ![Azure%20OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Document%20Intelligence](https://img.shields.io/badge/Document%20Intelligence-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| **Firebase** | ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Functions](https://img.shields.io/badge/Cloud%20Functions-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Auth](https://img.shields.io/badge/Authentication-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **AI / LLM / RAG** | ![GPT](https://img.shields.io/badge/GPT--5%20%2F%204o-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) ![Bedrock](https://img.shields.io/badge/Bedrock%20KB-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![AI%20Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| **Auth / CMS** | ![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=flat-square&logo=auth0&logoColor=white) ![EntraID](https://img.shields.io/badge/Microsoft%20EntraID-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![microCMS](https://img.shields.io/badge/microCMS-333333?style=flat-square&logoColor=white) ![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white) |
+| **DevOps / Tools** | ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+
+</div>
 
 </details>
 
@@ -90,6 +186,11 @@ const koki = {
   </a>
 </div>
 
+### 🌐 Web Products
+- **[kt-tech.blog](https://kt-tech.blog)** — 個人運営の技術ブログ (`Next.js / Cloudflare / Notion DB`)
+- **[con-cafe.jp](https://con-cafe.jp)** — 全国コンセプトカフェマップ (株式会社Diafa での担当プロダクト)
+- **[anoni.space](https://anoni.space)** — 知人と共同運営中のプロダクト (リリース予定)
+
 </details>
 
 <br/>
@@ -107,7 +208,6 @@ const koki = {
 - ☁️ [【設計】Cloudflare Workers → Pages 出戻り記 — OpenNext の TTFB が遅すぎた話](https://kt-tech.blog/blogs/cloudflare-workers-to-pages-ttfb)
 - 🤖 [【設定・環境構築】Gemma 4 を Ollama でローカル起動して OpenClaw と接続する](https://kt-tech.blog/blogs/gemma4-ollama-openclaw-local-setup)
 - 🌱 [【Github】コミットの一括変更で草を生やす方法](https://kt-tech.blog/blogs/xctkvsc2m)
-- 🗓️ [【Github】コミットの日時を変更して草が生えてる場所をずらす方法](https://kt-tech.blog/blogs/ww6sa34mo)
 - ⚛️ [【Next.js】Zustand を用いた状態管理について](https://kt-tech.blog/blogs/9nped3b921)
 - 🔗 [【Next.js】リンクカードの実装方法について](https://kt-tech.blog/blogs/ba3938uvje)
 
@@ -117,23 +217,17 @@ const koki = {
 
 <br/>
 
-<!-- 技術スタック -->
+<!-- 資格 -->
 <details open>
-<summary><h2>💻 Tech Stack</h2></summary>
+<summary><h2>🎖️ Certifications</h2></summary>
 
 <br/>
 
-実務 / 副業 / 個人開発で実際に触っているもの中心です。
-
 <div align="center">
 
-| | |
-|:---:|:---|
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logoColor=white) ![React%20Hook%20Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
-| **Cloud / Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS%20CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **CMS / Other** | ![microCMS](https://img.shields.io/badge/microCMS-333333?style=flat-square&logoColor=white) ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white) ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) |
+![応用情報技術者試験](https://img.shields.io/badge/応用情報技術者試験-合格-9333EA?style=for-the-badge&labelColor=181717)
+![基本情報技術者試験](https://img.shields.io/badge/基本情報技術者試験-合格-9333EA?style=for-the-badge&labelColor=181717)
+![C言語検定2級](https://img.shields.io/badge/C言語検定-2級合格-9333EA?style=for-the-badge&labelColor=181717)
 
 </div>
 
@@ -179,6 +273,26 @@ const koki = {
 <div align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=j19015&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </div>
+
+</details>
+
+<br/>
+
+<!-- ビジョン -->
+<details open>
+<summary><h2>🎯 Career Vision</h2></summary>
+
+<br/>
+
+BE / FE を横断するフルスタックエンジニアとして技術力を磨きつつ、将来的には **テックリード / PM** として、チームを技術面からリードしビジネスの課題を技術で解決できる存在を目指しています。
+
+**興味のある技術領域**
+- テックリード / 技術選定・アーキテクチャ設計
+- DX (Developer Experience) の向上
+- AI / LLM を活用したプロダクト開発
+- マイクロサービス・クラウドネイティブアーキテクチャ
+- リアルタイム通信・ストリーミング技術
+- Infrastructure as Code / DevOps
 
 </details>
 
