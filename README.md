@@ -77,16 +77,16 @@ const koki = {
 - CircleCI による CI/CD パイプラインの構築・運用
 > `React` `Vite` `TypeScript` `Node.js` `AWS CDK / Lambda / MediaLive` `Firebase` `Agora.io` `CircleCI`
 
-### 🤖 株式会社エムニ (業務委託)
+### 🤖 株式会社A (業務委託)
 **2025.12 〜 現在** ｜ Full Stack Engineer
-大手製造業向け社内 **LLM / RAG 検索ツール** と、**株主総会回答システム** の開発。
+社内向け **LLM / RAG 検索ツール** と、**株主総会回答システム** の開発。
 - アクティブユーザー約 **300名** へ導入・運用
 - フロントからバック、アーキテクチャ設計まで一貫して担当
 > `Next.js` `React` `TypeScript` `FastAPI` `Python` `GPT-5` `Bedrock Knowledge Base` `AWS`
 
-### 📝 株式会社Hakky (業務委託)
+### 📝 株式会社H (業務委託)
 **2025.01 〜 現在**  ｜ Full Stack Engineer
-**AI 記事投稿サイト** と、生成 AI を活用した **ドキュメントレビューシステム** の開発。
+**記事投稿サイト** と、生成 AI を活用した **ドキュメントレビューシステム** の開発。
 - Azure OpenAI (GPT-4o mini 等) を活用した AI 機能の設計・実装
 - Azure Document Intelligence を用いた Word / PDF の前処理 → Markdown 変換パイプライン
 - AI モデル選定によるコスト最適化
