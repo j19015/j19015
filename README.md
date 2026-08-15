@@ -255,9 +255,12 @@ Claude Code を業務・個人開発の両方で常用。skill / subagent の設
 </div>
 
 <div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=j19015&theme=midnight_purple" alt="Repos per Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=j19015&theme=midnight_purple" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j19015&theme=midnight_purple" alt="Profile Details" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=j19015&theme=midnight_purple" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=j19015&theme=midnight_purple" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j19015&theme=midnight_purple" alt="Profile Details" />
 </div>
 
 </details>
