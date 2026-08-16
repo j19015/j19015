@@ -106,8 +106,8 @@ const koki = {
 > `Next.js` `React` `TypeScript` `CSS Modules` `Node.js` `Prisma` `PostgreSQL` `AWS (App Runner / Amplify / Lambda)`
 
 ### 🛒 株式会社toraco (業務委託)
-**2025.01 〜 2025.03**  ｜ Full Stack Engineer
-EC カート事業のシステム開発。カート / 決済フローの実装と既存システムの保守。
+**2024.12 〜 2025.03**  ｜ Full Stack Engineer
+Wi-Fi レンタルカート事業のサイト開発。カート / 決済フローの実装と既存システムの保守。
 > `Next.js` `React` `TypeScript` `Node.js`
 
 ### 🎓 DMM WEBCAMP (業務委託・テックメンター)
