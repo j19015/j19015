@@ -76,13 +76,16 @@ const koki = {
 
 ### 🏢 株式会社ブイキューブ (正社員)
 **2023.04 〜 2026.06** ｜ Full Stack Engineer
-動画配信プラットフォーム **VCP** およびオンラインセミナーツール **「Vキューブセミナー」** の開発に従事。
-- 大規模ライブ配信を支える配信基盤の開発・運用
-- React + Agora SDK による視聴画面の映像音声配信機能の実装
-- AWS CDK で IaC、Lambda / MediaLive / CloudWatch を使ったサーバーレス基盤の設計・実装
-- Firebase (Firestore / Cloud Functions / Pub/Sub) を用いたリアルタイム連携・イベント駆動アーキテクチャ
-- CircleCI による CI/CD パイプラインの構築・運用
-> `React` `Vite` `TypeScript` `Node.js` `AWS CDK / Lambda / MediaLive` `Firebase` `Agora.io` `CircleCI`
+オンラインセミナーツール **「V-CUBE セミナー」**、新規セミナー配信プロダクト **VCP**、**イベントDXプラットフォーム** の3プロダクトを順に担当。
+
+- **EventDX プラットフォーム**（2025.01〜2026.06 / フロントエンド）
+  BtoBtoC のイベントDXプラットフォーム。React / TypeScript / Vite、**Nx によるモノレポ**構成でのフロントエンド開発。Agora SDK でのリアルタイム映像音声配信、視聴画面の実装
+- **VCP**（2024.04〜2024.12 / バックエンド・フロントエンド）
+  新規セミナー配信プロダクト。React での視聴画面開発、Agora SDK、Firebase (Firestore / Cloud Functions / Pub/Sub) によるリアルタイム連携・イベント駆動アーキテクチャ
+- **V-CUBE セミナー**（2023.04〜2024.03 / QA → バックエンド）
+  入社後1〜2ヶ月は QA として E2E テストを担当。その後 AWS CDK で IaC、Lambda / MediaLive / CloudWatch のサーバーレス基盤、運用監視、CircleCI での CI/CD を担当
+
+> `React` `Vite` `Nx` `TypeScript` `Node.js` `AWS CDK / Lambda / MediaLive` `Firebase` `Agora.io` `CircleCI`
 
 ### 🤖 株式会社A (業務委託)
 **2025.12 〜 現在** ｜ Full Stack Engineer
