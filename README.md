@@ -89,17 +89,29 @@ const koki = {
 
 ### 🤖 株式会社A (業務委託)
 **2025.12 〜 現在** ｜ Full Stack Engineer
-社内向け **LLM / RAG 検索ツール** と、**株主総会回答システム** の開発。
-- フロントからバック、アーキテクチャ設計まで一貫して担当
-> `Next.js` `React` `TypeScript` `FastAPI` `Python` `GPT` `Bedrock Knowledge Base` `AWS`
+大企業向けの生成AIプロダクト3件に参画。フロント・バック・インフラを横断して担当。
+
+- **RAG 検索チャットボット**（2026.03〜）
+  意図分類と「聞き返し」の設計・実装、回答と同時に根拠資料の該当ページを提示する UI、OpenSearch の検索後処理 (Lambda)、SharePoint からのドキュメント同期基盤、MCP サイドカー連携、Terraform でのインフラ構築
+- **社内 AI チャットボット**（2025.12〜2026.03）
+  LLM / RAG による社内文書検索。FastAPI + Next.js のフロント・バック開発とアーキテクチャ設計
+- **株主総会回答支援システム**（2025.12〜2026.03）
+  想定問答集から類似度の高い回答候補をリアルタイム提示。回答者／オペレーターの2系統 UI と権限制御
+
+> `Next.js` `React 19` `TypeScript` `FastAPI` `Python 3.13` `PostgreSQL` `OpenSearch` `MCP` `AWS (ECS / Cognito / Lambda)` `Terraform`
 
 ### 📝 株式会社H (業務委託)
 **2025.01 〜 現在**  ｜ Full Stack Engineer
-**記事投稿サイト** と、生成 AI を活用した **ドキュメントレビューシステム** の開発。
-- Azure OpenAI を活用した AI 機能の設計・実装
-- Azure Document Intelligence を用いた Word / PDF の前処理 → Markdown 変換パイプライン
-- AI モデル選定によるコスト最適化
-> `Next.js` `React` `TypeScript` `Node.js` `Azure OpenAI` `Azure Document Intelligence` `Azure AI Search` `Azure Functions`
+製造業向けの生成AIシステムを中心に、3系統のプロダクトを担当。
+
+- **製造業向け生成AIシステム**（2025.04〜）
+  設計変更の検討を支援するAIシステム（AI検索チャットボット／ドキュメント自動生成／AI監査）と、オフライン環境へ納品する日本語 RAG チャットボット。処理パイプラインの基盤刷新、ソースコード・設計書からの全体俯瞰図生成、AutoGen によるマルチエージェント構成、Terraform でのインフラ構築まで横断。主力リポジトリでは全コミットの約半数を担当
+- **ドキュメントレビューシステム**（2025.01〜2025.09）
+  PDF / DOCX / XLSX を Azure Document Intelligence で解析し、LLM がレビュー指摘を生成。QA ルール生成エージェント（マルチエージェント構成）の設計・実装、Azure EasyAuth / MSAL による認証基盤の統一。レビュー工数を約60%削減
+- **ナレッジポータルのリニューアルと記事自動生成**（2025.01〜2025.11）
+  データ・AI のナレッジポータルのフロントエンド実装と、LLM による記事自動生成ツールのファイル変換処理
+
+> `Next.js 15` `React 19` `TypeScript` `FastAPI` `Python` `PostgreSQL` `Azure OpenAI` `Azure AI Search` `Azure Document Intelligence` `AutoGen` `Terraform`
 
 ### 🍰 株式会社Diafa (業務委託)
 **2024.04 〜 2025.11**  ｜ Full Stack Engineer
