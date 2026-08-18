@@ -11,7 +11,7 @@
 [![X](https://img.shields.io/badge/X-@tech__koki-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tech_koki)
 [![Wantedly](https://img.shields.io/badge/Wantedly-kt__tech-00A4BB?style=for-the-badge&logo=wantedly&logoColor=white)](https://www.wantedly.com/id/kt_tech)
 [![YOUTRUST](https://img.shields.io/badge/YOUTRUST-meow__koki-00A0E9?style=for-the-badge&logoColor=white)](https://youtrust.jp/users/meow_koki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/takahashi-koki-b48742303)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koki-takahashi-b48742303)
 [![LAPRAS](https://img.shields.io/badge/LAPRAS-Public-FF6B35?style=for-the-badge&logoColor=white)](https://lapras.com/public/BWHAEVH)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=j19015&style=for-the-badge&color=9333EA)
@@ -319,7 +319,7 @@ AI がここまで浸透した中では、何か一つに特化することよ�
 [![X](https://img.shields.io/badge/X-tech__koki-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tech_koki)
 [![Wantedly](https://img.shields.io/badge/Wantedly-kt__tech-00A4BB?style=for-the-badge&logo=wantedly&logoColor=white)](https://www.wantedly.com/id/kt_tech)
 [![YOUTRUST](https://img.shields.io/badge/YOUTRUST-meow__koki-00A0E9?style=for-the-badge&logoColor=white)](https://youtrust.jp/users/meow_koki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/takahashi-koki-b48742303)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koki-takahashi-b48742303)
 [![LAPRAS](https://img.shields.io/badge/LAPRAS-Profile-FF6B35?style=for-the-badge&logoColor=white)](https://lapras.com/public/BWHAEVH)
 
 </div>
