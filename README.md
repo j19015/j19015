@@ -223,12 +223,12 @@ Claude Code を業務・個人開発の両方で常用。skill / subagent の設
 （以下は GitHub Actions が RSS から毎日自動更新しています）
 
 <!-- BLOG-POST-LIST:START -->
+- [【設計】Cursor Origin は GitHub を置き換えない — 「正」を残したまま、レビューの場所だけ移す設計](https://kt-tech.blog/blogs/cursor-origin-mirror-design)
 - [【環境構築】Ghostty・tmux・herdr・cmux をどう積むか — ターミナルを層で考える](https://kt-tech.blog/blogs/terminal-stack-for-coding-agents)
 - [【設計】Claude Code のセッション同士を会話させる — SendMessage と、権限が越境しない設計](https://kt-tech.blog/blogs/claude-code-cross-session-messaging)
 - [【環境構築】Claude Code に対話コマンドを任せる — tmux・herdr・cmux はどの層で戦っているか](https://kt-tech.blog/blogs/terminal-multiplexer-for-coding-agents)
 - [Notionに1行書くだけでSVG図解を出す — ヘッドレスCMSブログの図解パイプライン](https://kt-tech.blog/blogs/notion-blog-svg-figure-pipeline)
 - [Cloudflare OSとは何か — AIに鍵を渡さない「門番」アーキテクチャを図解で理解する](https://kt-tech.blog/blogs/cloudflare-os-gatekeeper-architecture)
-- [【設計】月次締めを skill にする — 定型作業を「一言」に畳む設計（確定申告自動化 第6回・完）](https://kt-tech.blog/blogs/monthly-close-skill-design)
 <!-- BLOG-POST-LIST:END -->
 
 > Qiita でも書いています → [@takakou](https://qiita.com/takakou)
