@@ -69,10 +69,12 @@ const koki = {
 <br/>
 
 ### 🏢 KDDIアジャイル開発センター (正社員)
-**2026.07 〜 現在** ｜ Software Engineer
+**2026.07 〜 現在** ｜ Full Stack Engineer
 
 スクラムチームの一員として、新規プロダクトの開発を担当。
 あわせて、CI・コーディング規約・ブランチ戦略・開発環境の整備といった **開発を回す仕組みづくり** にも取り組んでいます。
+
+2026.09 からは **約 10 名の dev チームの Dev リード** を担当。リファインメント前の情報集約と PO・スクラムマスターへの報告、スプリントゴールを決める議論への参加、スプリントレビューでの開発内容の報告、スクラムマスター不在時のデイリー・レトロスペクティブの進行を担っています。
 
 ### 🏢 株式会社ブイキューブ (正社員)
 **2023.04 〜 2026.06** ｜ Full Stack Engineer
@@ -265,9 +267,6 @@ Claude Code を業務・個人開発の両方で常用。skill / subagent の設
   <img width="100%" src="https://streak-stats.demolab.com?user=j19015&theme=midnight-purple&hide_border=true&background=0d1117&stroke=9333EA&ring=9333EA&fire=9333EA&currStreakLabel=9333EA" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=j19015&theme=react-dark&hide_border=true&bg_color=0d1117&color=9333EA&line=9333EA&point=9333EA&area_color=9333EA&area=true" alt="Contribution Graph" />
-</div>
 
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=j19015&theme=midnight_purple" alt="Repos per Language" />
@@ -291,7 +290,7 @@ Claude Code を業務・個人開発の両方で常用。skill / subagent の設
 フロントエンドを軸にしつつ、必要な領域は自分で取りに行ける **T 字型** のエンジニアでありたいと考えています。
 AI がここまで浸透した中では、何か一つに特化することよりも **作るスピードが早いこと** の価値が上がっていると思っていて、そのための基盤づくり（資格・書籍・手を動かすこと）は続けていくつもりです。
 
-将来的には **テックリード / PM** として、チームを技術面から支えられる存在を目指しています。
+2026.09 から **約 10 名の dev チームの Dev リード** を担当しています。今後は **PM** の領域にも広げ、チームを技術面から支えられる存在を目指しています。
 
 **興味のある技術領域**
 - AI エージェントを前提にした開発フローの設計
