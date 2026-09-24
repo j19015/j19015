@@ -225,12 +225,12 @@ Claude Code を業務・個人開発の両方で常用。skill / subagent の設
 （以下は GitHub Actions が RSS から毎日自動更新しています）
 
 <!-- BLOG-POST-LIST:START -->
+- [自宅のWindowsを開発機にする その5: Orcaで仕事用アカウントと会話履歴を正しく扱う](https://kt-tech.blog/blogs/wsl-devbox-5-orca-accounts-history)
+- [自宅のWindowsを開発機にする その4: Orcaを入れてWSLのリポジトリを扱う](https://kt-tech.blog/blogs/wsl-devbox-4-orca)
+- [自宅のWindowsを開発機にする その3: Claude Codeの設定とメモリを引っ越す](https://kt-tech.blog/blogs/wsl-devbox-3-claude-code-config)
+- [自宅のWindowsを開発機にする その2: Macの開発環境を作業状態ごとWSLに移す](https://kt-tech.blog/blogs/wsl-devbox-2-migrate-env)
+- [自宅のWindowsを開発機にする その1: TailscaleでMacとスマホからWSLに入る](https://kt-tech.blog/blogs/wsl-devbox-1-tailscale)
 - [【設計】Remote Control はアカウントで止まる、herdr は PTY 層で越える — 会社用 Claude の許可待ちを個人の携帯から捌く](https://kt-tech.blog/blogs/cross-account-claude-watchtower)
-- [【実装】エージェントに GitHub のスクショを貼らせる — 回り道と、9/1 に来た gh --attach](https://kt-tech.blog/blogs/gh-attach-agent-screenshot-upload)
-- [【設定・環境構築】herdr を実際に使ってみる — 「エージェントの状態が見える」は何ができることなのか](https://kt-tech.blog/blogs/herdr-agent-state-in-practice)
-- [【設定・環境構築】Claude Code の Remote Control を一通り試す — 「一番直してほしい機能」が今日どこまで直ったか](https://kt-tech.blog/blogs/claude-code-remote-control-reliability-update)
-- [【設計】Cursor Origin は GitHub を置き換えない — 「正」を残したまま、レビューの場所だけ移す設計](https://kt-tech.blog/blogs/cursor-origin-mirror-design)
-- [【環境構築】Ghostty・tmux・herdr・cmux をどう積むか — ターミナルを層で考える](https://kt-tech.blog/blogs/terminal-stack-for-coding-agents)
 <!-- BLOG-POST-LIST:END -->
 
 > Qiita でも書いています → [@takakou](https://qiita.com/takakou)
