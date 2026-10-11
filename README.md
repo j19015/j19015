@@ -247,6 +247,7 @@ Claude Code を業務・個人開発の両方で常用。skill / subagent の設
 
 <div align="center">
 
+![Registered Scrum Master](https://img.shields.io/badge/Registered%20Scrum%20Master-Scrum%20Inc.-9333EA?style=for-the-badge&labelColor=181717)
 ![応用情報技術者試験](https://img.shields.io/badge/応用情報技術者試験-合格-9333EA?style=for-the-badge&labelColor=181717)
 ![基本情報技術者試験](https://img.shields.io/badge/基本情報技術者試験-合格-9333EA?style=for-the-badge&labelColor=181717)
 ![C言語検定2級](https://img.shields.io/badge/C言語検定-2級合格-9333EA?style=for-the-badge&labelColor=181717)
