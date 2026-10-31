@@ -152,12 +152,12 @@ Claude Code を業務・個人開発の両方で常用。skill / subagent の設
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [【実装】herdr app のサイドバーを作り替える — 折りたたみ時の番号だけ表示と「+」ボタンを直感的に](https://kt-tech.blog/blogs/herdr-app-sidebar-customize)
+- [【実装】herdr app の mod で Files パネルを拡張する — Markdown・HTML・PDF・画像をその場でプレビュー](https://kt-tech.blog/blogs/herdr-app-mod-file-preview)
+- [【設定・環境構築】Ghostty + herdr CLI から herdr app に乗り換える — 同じ名前の別製品だった](https://kt-tech.blog/blogs/herdr-app-migration-from-cli)
 - [自宅のWindowsを開発機にする その5: Orcaで仕事用アカウントと会話履歴を正しく扱う](https://kt-tech.blog/blogs/wsl-devbox-5-orca-accounts-history)
 - [自宅のWindowsを開発機にする その4: Orcaを入れてWSLのリポジトリを扱う](https://kt-tech.blog/blogs/wsl-devbox-4-orca)
 - [自宅のWindowsを開発機にする その3: Claude Codeの設定とメモリを引っ越す](https://kt-tech.blog/blogs/wsl-devbox-3-claude-code-config)
-- [自宅のWindowsを開発機にする その2: Macの開発環境を作業状態ごとWSLに移す](https://kt-tech.blog/blogs/wsl-devbox-2-migrate-env)
-- [自宅のWindowsを開発機にする その1: TailscaleでMacとスマホからWSLに入る](https://kt-tech.blog/blogs/wsl-devbox-1-tailscale)
-- [【設計】Remote Control はアカウントで止まる、herdr は PTY 層で越える — 会社用 Claude の許可待ちを個人の携帯から捌く](https://kt-tech.blog/blogs/cross-account-claude-watchtower)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>↑ GitHub Actions が RSS から毎日更新しています。Qiita でも書いています → <a href="https://qiita.com/takakou">@takakou</a></sub>
