@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img alt="" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1300&color=9333EA&center=true&vCenter=true&width=720&lines=React+%2F+Next.js+%2F+TypeScript+%E2%80%94+%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%92%E8%BD%B4%E3%81%AB;Dev+Lead+in+a+Scrum+Team;LLM+%2F+RAG+%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%92%E6%A8%AA%E6%96%AD%E3%81%A7;Designing+with+Claude+Code;Writing+at+kt-tech.blog" />
+  <img alt="" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1300&color=9333EA&center=true&vCenter=true&width=720&lines=React+%2F+Next.js+%2F+TypeScript+%E2%80%94+%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%92%E8%BD%B4%E3%81%AB;Driving+tech+in+a+Scrum+Team;LLM+%2F+RAG+%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%92%E6%A8%AA%E6%96%AD%E3%81%A7;Designing+with+Claude+Code;Writing+at+kt-tech.blog" />
 </div>
 
 <div align="center">
@@ -36,7 +36,7 @@
 ```ts
 const now = {
   building: [
-    "スクラムチームでの新規プロダクト開発（Dev リード / 約10名）",
+    "スクラムチームでの新規プロダクト開発（技術面のリード / dev約10名）",
     "大企業向け RAG 検索基盤（業務委託）",
     "Azure OpenAI でのドキュメントレビュー基盤（業務委託）",
   ],
@@ -59,7 +59,7 @@ const now = {
 
 | 期間 | 所属 | 役割 | 主なスタック |
 |:---|:---|:---|:---|
-| **2026.07 –** | **KDDIアジャイル開発センター** <sub>正社員</sub> | Full Stack ／ **Dev リード**<sup>2026.09〜</sup> | `React` `TypeScript` `Vite` `FastAPI` `MongoDB` |
+| **2026.07 –** | **KDDIアジャイル開発センター** <sub>正社員</sub> | Full Stack ／ 技術面のリード | `React` `TypeScript` `Vite` `FastAPI` `MongoDB` |
 | **2025.12 –** | **株式会社A** <sub>業務委託</sub> | Full Stack <sub>生成AI / AWS</sub> | `Next.js` `FastAPI` `OpenSearch` `AWS` `Terraform` |
 | **2025.01 –** | **株式会社H** <sub>業務委託</sub> | Full Stack <sub>生成AI / Azure</sub> | `Next.js` `FastAPI` `Azure OpenAI` `AutoGen` `Terraform` |
 | 2023.04 – 2026.06 | **株式会社ブイキューブ** <sub>正社員</sub> | QA → Backend → Frontend | `React` `Nx` `AWS CDK` `Firebase` `Agora SDK` |
@@ -214,7 +214,7 @@ Claude Code を業務・個人開発の両方で常用。skill / subagent の設
 フロントエンドを軸にしつつ、必要な領域は自分で取りに行ける **T 字型**のエンジニアでありたいと考えています。
 AI がここまで浸透した中では、何か一つに特化することよりも **作るスピードが速いこと**の価値が上がっていると思っていて、そのための基盤づくり（資格・書籍・手を動かすこと）は続けていくつもりです。
 
-2026.09 から約 10 名の dev チームの **Dev リード**を担当しています。今後は **PM** の領域にも広げ、チームを技術面から支えられる存在を目指しています。
+約 10 名の dev チームで、設計・コードレビュー・開発基盤整備など**技術面のリード**を担当しています。今後は **PM** の領域にも広げ、プロダクトとチームの両面から支えられる存在を目指しています。
 
 **興味のある領域**
 
