@@ -152,12 +152,12 @@ Claude Code を業務・個人開発の両方で常用。skill / subagent の設
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [【Herdr】スマホアプリから Mac に入る — Tailscale の ACL と sshd を絞ってからつなぐ](https://kt-tech.blog/blogs/herdr-mobile-tailscale-ssh)
+- [【Notion】インテグレーションを読み取り用と書き込み用に分けたら、空の Secret で同期が成功していた](https://kt-tech.blog/blogs/notion-integration-read-write-split)
+- [【Cloudflare】外から Notion API の枠を使い切られないように、画像URLに署名を付けて WAF でレート制限した](https://kt-tech.blog/blogs/notion-api-quota-signed-url-waf)
+- [【Notion】読了時間と「本文の更新日」を CI で Notion に書き戻すようにした](https://kt-tech.blog/blogs/notion-ci-reading-time-writeback)
 - [【1Password】.env.local をやめて op run で秘密情報を渡すようにした](https://kt-tech.blog/blogs/env-local-to-1password)
 - [【Cloudflare】D1 と Turnstile で記事に「参考になった」ボタンを付けてみた](https://kt-tech.blog/blogs/reactions-d1-turnstile)
-- [構成図をAIに描いてもらうskill「stack-diagram」でブログのREADMEに構成図を載せてみた](https://kt-tech.blog/blogs/stack-diagram-architecture-readme)
-- [【設定・環境構築】Ghostty + herdr CLI から herdr app に乗り換える — 同じ名前の別製品だった](https://kt-tech.blog/blogs/herdr-app-migration-from-cli)
-- [【実装】herdr app の mod で Files パネルを拡張する — Markdown・HTML・PDF・画像をその場でプレビュー](https://kt-tech.blog/blogs/herdr-app-mod-file-preview)
-- [【実装】herdr app のサイドバーを作り替える — 折りたたみ時の番号だけ表示と「+」ボタンを直感的に](https://kt-tech.blog/blogs/herdr-app-sidebar-customize)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>↑ GitHub Actions が RSS から毎日更新しています。Qiita でも書いています → <a href="https://qiita.com/takakou">@takakou</a></sub>
