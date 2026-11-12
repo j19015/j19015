@@ -59,7 +59,7 @@ const now = {
 
 | 期間 | 所属 | 役割 | 主なスタック |
 |:---|:---|:---|:---|
-| **2026.07 –** | **KDDIアジャイル開発センター** <sub>正社員</sub> | Full Stack ／ 技術面のリード | `React` `TypeScript` `Vite` `FastAPI` `MongoDB` |
+| **2026.07 –** | **KDDIアジャイル開発センター** <sub>正社員</sub> | Full Stack | `React` `TypeScript` `Vite` `FastAPI` `MongoDB` |
 | **2025.12 –** | **株式会社A** <sub>業務委託</sub> | Full Stack <sub>生成AI / AWS</sub> | `Next.js` `FastAPI` `OpenSearch` `AWS` `Terraform` |
 | **2025.01 –** | **株式会社H** <sub>業務委託</sub> | Full Stack <sub>生成AI / Azure</sub> | `Next.js` `FastAPI` `Azure OpenAI` `AutoGen` `Terraform` |
 | 2023.04 – 2026.06 | **株式会社ブイキューブ** <sub>正社員</sub> | QA → Backend → Frontend | `React` `Nx` `AWS CDK` `Firebase` `Agora SDK` |
